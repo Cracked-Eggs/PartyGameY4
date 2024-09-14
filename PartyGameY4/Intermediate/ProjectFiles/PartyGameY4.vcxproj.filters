@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PartyGameY4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PartyGameY4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PartyGameY4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PartyGameY4">
+      <UniqueIdentifier>{F5EA3B20-1F90-333D-9FCE-5D8B539EA8A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PartyGameY4\PartyGameY4.Build.cs">
+      <Filter>Source\PartyGameY4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PartyGameY4\PartyGameY4.cpp">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartyGameY4\PartyGameY4.h">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartyGameY4\PartyGameY4Character.cpp">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartyGameY4\PartyGameY4Character.h">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PartyGameY4\PartyGameY4GameMode.cpp">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PartyGameY4\PartyGameY4GameMode.h">
+      <Filter>Source\PartyGameY4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

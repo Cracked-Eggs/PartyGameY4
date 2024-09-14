@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\there\\onedrive\\documents\\partygamey4\\partygamey4\\partygamey4\\source\\partygamey4\\partygamey4.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\there\\onedrive\\documents\\partygamey4\\partygamey4\\partygamey4\\intermediate\\build\\win64\\x64\\partygamey4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\there\\onedrive\\documents\\partygamey4\\partygamey4\\partygamey4\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\partygamey4\\definitions.partygamey4.h",
+            "c:\\users\\there\\onedrive\\documents\\partygamey4\\partygamey4\\partygamey4\\source\\partygamey4\\partygamey4.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

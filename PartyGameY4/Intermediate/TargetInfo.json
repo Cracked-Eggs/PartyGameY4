@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PartyGameY4",
+			"Path": "..\\Source\\PartyGameY4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PartyGameY4Editor",
+			"Path": "..\\Source\\PartyGameY4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
